@@ -30,3 +30,5 @@
 <a target="_blank" href="https://www.instagram.com/yashyo_o" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mewondace&show_icons=true&locale=en" alt="mewondace" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mewondace&show_icons=true&locale=en&layout=compact" alt="mewondace" /></p>
+
+![GitHub Snake Animation](https://github.com/your-username/your-repo-name/blob/output/github-snake.svg)

@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mewondace&show_icons=true&locale=en" alt="mewondace" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mewondace&show_icons=true&locale=en&layout=compact" alt="mewondace" /></p>
 
-![GitHub Snake Animation](https://github.com/your-username/your-repo-name/blob/output/github-snake.svg)
+![GitHub Snake Animation](https://github.com/mewondace/mewondace/blob/output/github-snake.svg)

@@ -31,4 +31,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mewondace&show_icons=true&locale=en" alt="mewondace" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mewondace&show_icons=true&locale=en&layout=compact" alt="mewondace" /></p>
 
-![GitHub Snake Animation](https://github.com/mewondace/mewondace/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mewondace/mewondace/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mewondace/mewondace/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/mewondace/mewondace/output/github-snake.svg" />
+</picture>
+
